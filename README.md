@@ -40,8 +40,8 @@ npm start
 ```
 
 ## Deployment in Nginx
-...
-8. install nginx: 
+8. Install nginx
+... 
 sudo apt-get update
 sudo apt install nginx -y
 sudo systemctl restart nginx
