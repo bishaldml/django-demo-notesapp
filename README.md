@@ -1,5 +1,5 @@
 # Simple Notes App
-Deploying this simple note-app built with React and Django in nginx server.
+Deploying this simple noteapp built with React and Django in Nginx server.
 
 ## Requirements
 1. Python 
