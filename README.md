@@ -41,7 +41,7 @@ npm start
 
 ## Deployment in Nginx
 ...
-install nginx: 
+8. install nginx: 
 sudo apt-get update
 sudo apt install nginx -y
 sudo systemctl restart nginx
