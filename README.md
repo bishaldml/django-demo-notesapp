@@ -57,9 +57,9 @@ sudo usermod -aG docker $USER
 ```
 10. Build the app
 ```
-docker build -t notes-app
+docker build -t notes-app .
 ```
 11. Run the app / to build container
 ```
-docker run -d -p 8000:8000 notes-app
+docker run -dp 8000:8000 notes-app
 ```
